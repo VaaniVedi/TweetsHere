@@ -11,6 +11,7 @@
 - We can like on any comment also.
 - Retweeting.
 - Comment and Tweet will be two different entities.
+- Tweet will not be editable
 
 - User Profiles:
     - Name 
