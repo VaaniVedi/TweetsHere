@@ -52,6 +52,7 @@ class CrudRepository {
             throw error;
         }
     }
+    
 }
 
 export default CrudRepository;
